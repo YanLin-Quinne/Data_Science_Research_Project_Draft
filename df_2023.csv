@@ -1,0 +1,69 @@
+﻿Result,match_number,team,opponent,gender ,season,month,day,home_advantage,venue,city,time
+,1,Trent Rockets,Southern Brave,female,2023,8,1,yes,"Trent Bridge, Nottingham",Nottingham,15:00
+,1,Trent Rockets,Southern Brave,male,2023,8,1,yes,"Trent Bridge, Nottingham",Nottingham,18:30
+,2,Welsh Fire,Manchester Orignials,female,2023,8,2,yes,"Sophia Gardens, Cardiff ",Cardiff,11:30
+,2,Welsh Fire,Manchester Orignials,male,2023,8,2,yes,"Sophia Gardens, Cardiff ",Cardiff,15:00
+,3,London Spirit,Oval Invincibles,female,2023,8,2,yes,"Lord's, London ",London,15:00
+,3,London Spirit,Oval Invincibles,male,2023,8,2,yes,"Lord's, London ",London,18:30
+,4,Northern Superchargers ,Birmingham Phoenix,female,2023,8,3,yes,"Headingley, Leeds",Leeds,15:00
+,4,Northern Superchargers ,Birmingham Phoenix,male,2023,8,3,yes,"Headingley, Leeds",Leeds,18:30
+,5,Southern Brave,Welsh Fire,female,2023,8,4,yes,"The Rose Bowl, Southampton",Southampton,15:00
+,5,Southern Brave,Welsh Fire,male,2023,8,4,yes,"The Rose Bowl, Southampton",Southampton,18:30
+,6,Manchester Orignials,London Spirit,female,2023,8,5,yes,"Old Trafford, Manchester",Manchester,11:00
+,6,Manchester Orignials,London Spirit,male,2023,8,5,yes,"Old Trafford, Manchester",Manchester,14:30
+,7,Birmingham Phoenix,Trent Rockets,female,2023,8,5,yes,"Edgbaston, Birmingham",Birmingham,14:30
+,7,Birmingham Phoenix,Trent Rockets,male,2023,8,5,yes,"Edgbaston, Birmingham",Birmingham,18:30
+,8,Southern Brave,Northern Superchargers ,female,2023,8,6,yes,"The Rose Bowl, Southampton",Southampton,11:00
+,8,Southern Brave,Northern Superchargers ,male,2023,8,6,yes,"The Rose Bowl, Southampton",Southampton,14:30
+,9,Oval Invincibles,Welsh Fire,female,2023,8,6,yes,"Kennington Oval, London",London,14:30
+,9,Oval Invincibles,Welsh Fire,male,2023,8,6,yes,"Kennington Oval, London",London,18:00
+,10,Manchester Orignials,Birmingham Phoenix,female,2023,8,7,yes,"Old Trafford, Manchester",Manchester,15:00
+,10,Manchester Orignials,Birmingham Phoenix,male,2023,8,7,yes,"Old Trafford, Manchester",Manchester,18:30
+,11,London Spirit,Southern Brave,female,2023,8,8,yes,"Lord's, London ",London,15:00
+,11,London Spirit,Southern Brave,male,2023,8,8,yes,"Lord's, London ",London,18:30
+,12,Trent Rockets,Northern Superchargers ,female,2023,8,9,yes,"Trent Bridge, Nottingham",Nottingham,11:30
+,12,Trent Rockets,Northern Superchargers ,male,2023,8,9,yes,"Trent Bridge, Nottingham",Nottingham,15:00
+,13,Oval Invincibles,Manchester Orignials,female,2023,8,9,yes,"Kennington Oval, London",London,15:00
+,13,Oval Invincibles,Manchester Orignials,male,2023,8,9,yes,"Kennington Oval, London",London,18:30
+,14,Birmingham Phoenix,Welsh Fire,female,2023,8,10,yes,"Edgbaston, Birmingham",Birmingham,15:00
+,14,Birmingham Phoenix,Welsh Fire,male,2023,8,10,yes,"Edgbaston, Birmingham",Birmingham,18:30
+,15,Northern Superchargers ,Oval Invincibles,female,2023,8,11,yes,"Headingley, Leeds",Leeds,15:00
+,15,Northern Superchargers ,Oval Invincibles,male,2023,8,11,yes,"Headingley, Leeds",Leeds,18:30
+,16,London Spirit,Trent Rockets,female,2023,8,12,yes,"Lord's, London ",London,11:00
+,16,London Spirit,Trent Rockets,male,2023,8,12,yes,"Lord's, London ",London,14:30
+,17,Welsh Fire,Southern Brave,female,2023,8,12,yes,"Sophia Gardens, Cardiff ",Cardiff,14:30
+,17,Welsh Fire,Southern Brave,male,2023,8,12,yes,"Sophia Gardens, Cardiff ",Cardiff,18:00
+,18,Northern Superchargers ,Manchester Orignials,female,2023,8,13,yes,"Headingley, Leeds",Leeds,11:00
+,18,Northern Superchargers ,Manchester Orignials,male,2023,8,13,yes,"Headingley, Leeds",Leeds,14:30
+,19,Birmingham Phoenix,Oval Invincibles,female,2023,8,13,yes,"Edgbaston, Birmingham",Birmingham,14:30
+,19,Birmingham Phoenix,Oval Invincibles,male,2023,8,13,yes,"Edgbaston, Birmingham",Birmingham,18:00
+,20,Welsh Fire,Trent Rockets,female,2023,8,14,yes,"Sophia Gardens, Cardiff ",Cardiff,15:00
+,20,Welsh Fire,Trent Rockets,male,2023,8,14,yes,"Sophia Gardens, Cardiff ",Cardiff,18:30
+,21,Oval Invincibles,London Spirit,female,2023,8,15,yes,"Kennington Oval, London",London,15:00
+,21,Oval Invincibles,London Spirit,male,2023,8,15,yes,"Kennington Oval, London",London,18:30
+,22,Southern Brave,Birmingham Phoenix,female,2023,8,16,yes,"The Rose Bowl, Southampton",Southampton,15:00
+,22,Southern Brave,Birmingham Phoenix,male,2023,8,16,yes,"The Rose Bowl, Southampton",Southampton,18:30
+,23,Trent Rockets,Manchester Orignials,female,2023,8,17,yes,"Trent Bridge, Nottingham",Nottingham,15:00
+,23,Trent Rockets,Manchester Orignials,male,2023,8,17,yes,"Trent Bridge, Nottingham",Nottingham,18:30
+,24,London Spirit,Northern Superchargers ,female,2023,8,18,yes,"Lord's, London ",London,15:00
+,24,London Spirit,Northern Superchargers ,male,2023,8,18,yes,"Lord's, London ",London,18:30
+,25,Trent Rockets,Birmingham Phoenix,female,2023,8,19,yes,"Trent Bridge, Nottingham",Nottingham,11:00
+,25,Trent Rockets,Birmingham Phoenix,male,2023,8,19,yes,"Trent Bridge, Nottingham",Nottingham,14:30
+,26,Southern Brave,Oval Invincibles,female,2023,8,19,no,"Sophia Gardens, Cardiff ",Cardiff,14:30
+,26,Southern Brave,Oval Invincibles,male,2023,8,19,no,"Sophia Gardens, Cardiff ",Cardiff,18:00
+,27,Manchester Orignials,Northern Superchargers ,female,2023,8,20,yes,"Old Trafford, Manchester",Manchester,11:00
+,27,Manchester Orignials,Northern Superchargers ,male,2023,8,20,yes,"Old Trafford, Manchester",Manchester,14:30
+,28,Welsh Fire,London Spirit,female,2023,8,20,yes,"Sophia Gardens, Cardiff ",Cardiff,14:30
+,28,Welsh Fire,London Spirit,male,2023,8,20,yes,"Sophia Gardens, Cardiff ",Cardiff,18:00
+,29,Manchester Orignials,Trent Rockets,female,2023,8,21,no,"Kennington Oval, London",London,15:00
+,29,Manchester Orignials,Trent Rockets,male,2023,8,21,no,"Kennington Oval, London",London,18:30
+,30,Northern Superchargers ,Welsh Fire,female,2023,8,22,yes,"Headingley, Leeds",Leeds,15:00
+,30,Northern Superchargers ,Welsh Fire,male,2023,8,22,yes,"Headingley, Leeds",Leeds,18:30
+,31,Manchester Orignials,Southern Brave,female,2023,8,23,yes,"Old Trafford, Manchester",Manchester,15:00
+,31,Manchester Orignials,Southern Brave,male,2023,8,23,yes,"Old Trafford, Manchester",Manchester,18:30
+,32,Birmingham Phoenix,London Spirit,female,2023,8,24,yes,"Edgbaston, Birmingham",Birmingham,15:00
+,32,Birmingham Phoenix,London Spirit,male,2023,8,24,yes,"Edgbaston, Birmingham",Birmingham,18:30
+,40,unknown,unknown,female,2023,8,26,unknown,"Kennington Oval, London",London,14:30
+,40,unknown,unknown,male,2023,8,26,unknown,"Kennington Oval, London",London,18:00
+,50,unknown,unknown,female,2023,8,27,unknown,"Lord's, London ",London,14:15
+,50,unknown,unknown,male,2023,8,27,unknown,"Lord's, London ",London,18:00
