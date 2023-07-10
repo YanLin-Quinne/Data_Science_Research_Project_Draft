@@ -1,0 +1,116 @@
+Result,match_number,total_score,total_wickets_player_out,team,opponent,gender,season,month,day,home_advantage,venue,city,toss_winner,winner,choose_to_bat,avg_win_rate,avg_score,avg_wickets_out,last_match_result
+win,5,132,7,Oval Invincibles,London Spirit,female,2021,7,25,no,"Lord's, London",London,London Spirit,Oval Invincibles,no,1.0,135.0,6.0,win
+win,6,113,9,Birmingham Phoenix,Manchester Originals,female,2021,7,25,no,"Old Trafford, Manchester",Manchester,Birmingham Phoenix,Birmingham Phoenix,yes,0.0,128.0,6.0,loose
+loose,6,87,10,Birmingham Phoenix,Manchester Originals,male,2021,7,25,no,"Old Trafford, Manchester",Manchester,Birmingham Phoenix,Manchester Originals,yes,1.0,144.0,6.0,win
+win,7,149,7,Northern Superchargers,Trent Rockets,female,2021,7,26,no,"Trent Bridge, Nottingham",Nottingham,Northern Superchargers,Northern Superchargers,yes,1.0,130.0,8.0,win
+loose,7,132,10,Northern Superchargers,Trent Rockets,male,2021,7,26,no,"Trent Bridge, Nottingham",Nottingham,Northern Superchargers,Trent Rockets,yes,0.0,173.0,4.0,loose
+loose,8,110,7,Welsh Fire,Southern Brave,female,2021,7,27,yes,"Sophia Gardens, Cardiff",Cardiff,Southern Brave,Southern Brave,no,0.0,130.0,8.0,loose
+win,8,165,4,Welsh Fire,Southern Brave,male,2021,7,27,yes,"Sophia Gardens, Cardiff",Cardiff,Southern Brave,Welsh Fire,no,1.0,173.0,4.0,win
+win,10,151,4,Trent Rockets,London Spirit,female,2021,7,29,no,"Lord's, London",London,Trent Rockets,Trent Rockets,yes,0.0,141.0,6.0,loose
+win,10,123,4,Trent Rockets,London Spirit,male,2021,7,29,no,"Lord's, London",London,London Spirit,Trent Rockets,no,1.0,129.0,9.0,win
+loose,11,140,4,Birmingham Phoenix,Southern Brave,female,2021,7,30,no,"The Rose Bowl, Southampton",Southampton,Southern Brave,Southern Brave,no,0.5,120.5,7.5,win
+loose,11,151,3,Birmingham Phoenix,Southern Brave,male,2021,7,30,no,"The Rose Bowl, Southampton",Southampton,Southern Brave,Southern Brave,no,0.5,115.5,8.0,loose
+loose,12,120,6,Manchester Originals,Welsh Fire,female,2021,7,31,no,"Sophia Gardens, Cardiff",Cardiff,Welsh Fire,Welsh Fire,no,0.0,124.0,7.5,loose
+loose,12,150,6,Welsh Fire,Manchester Originals,male,2021,7,31,yes,"Sophia Gardens, Cardiff",Cardiff,Welsh Fire,Manchester Originals,yes,1.0,169.0,4.0,win
+win,13,109,8,Northern Superchargers,Oval Invincibles,female,2021,7,31,yes,"Headingley, Leeds",Leeds,Oval Invincibles,Northern Superchargers,no,1.0,139.5,7.5,win
+loose,13,127,6,Oval Invincibles,Northern Superchargers,male,2021,7,31,no,"Headingley, Leeds",Leeds,Oval Invincibles,Northern Superchargers,yes,1.0,145.0,8.0,win
+win,14,145,5,Trent Rockets,Birmingham Phoenix,female,2021,8,1,no,"Edgbaston, Birmingham",Birmingham,Trent Rockets,Trent Rockets,yes,0.3333333333333333,144.33333333333334,5.333333333333333,win
+loose,14,144,6,Trent Rockets,Birmingham Phoenix,male,2021,8,1,no,"Edgbaston, Birmingham",Birmingham,Birmingham Phoenix,Birmingham Phoenix,no,1.0,127.0,7.333333333333333,win
+loose,15,93,10,London Spirit,Southern Brave,female,2021,8,1,yes,"Lord's, London",London,Southern Brave,Southern Brave,no,0.3333333333333333,137.0,5.666666666666667,loose
+win,15,145,6,Southern Brave,London Spirit,male,2021,8,1,no,"Lord's, London",London,London Spirit,Southern Brave,no,0.3333333333333333,147.33333333333334,5.0,win
+win,16,112,6,Welsh Fire,Oval Invincibles,female,2021,8,2,no,"Kennington Oval, London",London,Oval Invincibles,Welsh Fire,no,0.3333333333333333,120.0,7.0,win
+loose,16,121,7,Welsh Fire,Oval Invincibles,male,2021,8,2,no,"Kennington Oval, London",London,Oval Invincibles,Oval Invincibles,no,0.6666666666666666,162.66666666666666,4.666666666666667,loose
+loose,17,126,5,Northern Superchargers,London Spirit,female,2021,8,3,no,"Lord's, London",London,Northern Superchargers,London Spirit,yes,1.0,129.33333333333334,7.666666666666667,win
+win,17,155,3,Northern Superchargers,London Spirit,male,2021,8,3,no,"Lord's, London",London,Northern Superchargers,Northern Superchargers,yes,0.3333333333333333,144.0,6.666666666666667,win
+loose,18,129,9,Birmingham Phoenix,Oval Invincibles,female,2021,8,4,yes,"Edgbaston, Birmingham",Birmingham,Birmingham Phoenix,Oval Invincibles,yes,0.25,131.5,6.0,loose
+loose,18,172,3,Oval Invincibles,Birmingham Phoenix,male,2021,8,4,no,"Edgbaston, Birmingham",Birmingham,Birmingham Phoenix,Birmingham Phoenix,no,0.6666666666666666,131.0,7.0,win
+loose,19,123,7,Southern Brave,Manchester Originals,female,2021,8,5,no,"Old Trafford, Manchester",Manchester,Manchester Originals,Manchester Originals,no,1.0,119.0,6.5,win
+loose,20,102,10,Welsh Fire,Trent Rockets,female,2021,8,6,yes,"Sophia Gardens, Cardiff",Cardiff,Trent Rockets,Trent Rockets,no,0.5,118.0,6.75,win
+loose,20,139,8,Welsh Fire,Trent Rockets,male,2021,8,6,yes,"Sophia Gardens, Cardiff",Cardiff,Trent Rockets,Trent Rockets,no,0.5,152.25,5.25,loose
+loose,21,76,3,Northern Superchargers,Southern Brave,female,2021,8,7,no,"The Rose Bowl, Southampton",Southampton,Southern Brave,Southern Brave,no,0.75,128.5,7.0,loose
+loose,21,128,6,Northern Superchargers,Southern Brave,male,2021,8,7,no,"The Rose Bowl, Southampton",Southampton,Northern Superchargers,Southern Brave,yes,0.5,146.75,5.75,win
+win,22,125,6,Oval Invincibles,Trent Rockets,male,2021,8,8,yes,"Kennington Oval, London",London,Trent Rockets,Oval Invincibles,no,0.5,141.25,6.0,loose
+win,23,184,5,Birmingham Phoenix,Welsh Fire,male,2021,8,9,yes,"Edgbaston, Birmingham",Birmingham,Welsh Fire,Birmingham Phoenix,no,0.6,139.6,5.6,win
+loose,23,127,9,Welsh Fire,Birmingham Phoenix,female,2021,8,9,no,"Edgbaston, Birmingham",Birmingham,Birmingham Phoenix,Birmingham Phoenix,no,0.4,114.8,7.4,loose
+win,24,142,6,London Spirit,Manchester Originals,male,2021,8,10,no,"Old Trafford, Manchester",Manchester,London Spirit,London Spirit,yes,0.0,141.75,4.75,loose
+loose,24,127,5,Manchester Originals,London Spirit,female,2021,8,10,yes,"Old Trafford, Manchester",Manchester,Manchester Originals,London Spirit,yes,0.25,122.75,7.0,win
+win,25,166,3,Southern Brave,Welsh Fire,female,2021,8,11,yes,"The Rose Bowl, Southampton",Southampton,Welsh Fire,Southern Brave,no,0.8333333333333334,112.5,6.0,win
+loose,25,144,5,Welsh Fire,Southern Brave,male,2021,8,11,no,"The Rose Bowl, Southampton",Southampton,Southern Brave,Southern Brave,no,0.3333333333333333,155.33333333333334,5.666666666666667,loose
+loose,26,126,5,Northern Superchargers,Manchester Originals,female,2021,8,12,yes,"Headingley, Leeds",Leeds,Manchester Originals,Manchester Originals,no,0.6,118.0,6.2,loose
+win,26,200,5,Northern Superchargers,Manchester Originals,male,2021,8,12,yes,"Headingley, Leeds",Leeds,Manchester Originals,Northern Superchargers,no,0.4,143.0,5.8,loose
+win,27,166,6,Birmingham Phoenix,Trent Rockets,male,2021,8,13,no,"Trent Bridge, Nottingham",Nottingham,Trent Rockets,Birmingham Phoenix,no,0.6666666666666666,147.0,5.5,win
+loose,27,125,7,Trent Rockets,Birmingham Phoenix,female,2021,8,13,yes,"Trent Bridge, Nottingham",Nottingham,Birmingham Phoenix,Birmingham Phoenix,no,0.6,136.0,6.2,win
+loose,28,103,9,London Spirit,Oval Invincibles,female,2021,8,14,no,"Kennington Oval, London",London,Oval Invincibles,Oval Invincibles,no,0.5,126.16666666666669,6.166666666666667,win
+loose,28,146,7,London Spirit,Oval Invincibles,male,2021,8,14,no,"Kennington Oval, London",London,London Spirit,Oval Invincibles,yes,0.2,141.8,5.0,win
+loose,29,135,8,Manchester Originals,Trent Rockets,male,2021,8,15,no,"Trent Bridge, Nottingham",Nottingham,Manchester Originals,Trent Rockets,yes,0.4,144.8,7.0,loose
+loose,29,122,6,Trent Rockets,Manchester Originals,female,2021,8,15,yes,"Trent Bridge, Nottingham",Nottingham,Manchester Originals,Manchester Originals,no,0.5,134.16666666666666,6.333333333333333,loose
+loose,30,134,7,Oval Invincibles,Southern Brave,male,2021,8,16,no,"The Rose Bowl, Southampton",Southampton,Southern Brave,Southern Brave,no,0.6666666666666666,139.33333333333334,6.166666666666667,win
+win,30,115,3,Southern Brave,Oval Invincibles,female,2021,8,16,yes,"The Rose Bowl, Southampton",Southampton,Oval Invincibles,Southern Brave,no,0.8571428571428571,120.14285714285714,5.571428571428571,win
+win,31,147,4,Birmingham Phoenix,Northern Superchargers,female,2021,8,17,no,"Headingley, Leeds",Leeds,Northern Superchargers,Birmingham Phoenix,no,0.4285714285714285,129.57142857142858,7.0,win
+loose,31,143,8,Northern Superchargers,Birmingham Phoenix,male,2021,8,17,yes,"Headingley, Leeds",Leeds,Birmingham Phoenix,Birmingham Phoenix,no,0.5,152.5,5.666666666666667,win
+loose,32,163,5,London Spirit,Welsh Fire,male,2021,8,18,no,"Sophia Gardens, Cardiff",Cardiff,Welsh Fire,Welsh Fire,no,0.1666666666666666,142.5,5.333333333333333,loose
+loose,32,95,9,Welsh Fire,London Spirit,female,2021,8,18,yes,"Sophia Gardens, Cardiff",Cardiff,London Spirit,London Spirit,no,0.2857142857142857,123.85714285714286,7.0,loose
+win,40,114,7,Oval Invincibles,Birmingham Phoenix,female,2021,8,20,yes,"Kennington Oval, London",London,Birmingham Phoenix,Oval Invincibles,no,0.5714285714285714,119.28571428571428,6.857142857142857,loose
+loose,40,96,10,Trent Rockets,Southern Brave,male,2021,8,20,no,"Kennington Oval, London",London,Southern Brave,Southern Brave,no,0.625,136.25,7.0,win
+win,50,121,6,Oval Invincibles,Southern Brave,female,2021,8,21,no,"Lord's, London",London,Southern Brave,Oval Invincibles,no,0.625,118.625,6.875,win
+win,50,168,5,Southern Brave,Birmingham Phoenix,male,2021,8,21,no,"Lord's, London",London,Birmingham Phoenix,Southern Brave,no,0.75,136.125,6.125,win
+loose,1,107,7,Welsh Fire,Southern Brave,male,2022,8,3,no,"The Rose Bowl, Southampton",Southampton,Southern Brave,Southern Brave,no,0.375,154.875,5.5,win
+win,2,171,6,London Spirit,Oval Invincibles,male,2022,8,4,no,"Kennington Oval, London",London,Oval Invincibles,London Spirit,no,0.1428571428571428,145.42857142857142,5.285714285714286,loose
+loose,3,161,4,Manchester Originals,Northern Superchargers,male,2022,8,5,yes,"Old Trafford, Manchester",Manchester,Northern Superchargers,Northern Superchargers,no,0.3333333333333333,143.16666666666666,7.166666666666667,loose
+loose,4,143,7,Birmingham Phoenix,Trent Rockets,male,2022,8,6,no,"Trent Bridge, Nottingham",Nottingham,Trent Rockets,Trent Rockets,no,0.6666666666666666,151.0,5.777777777777778,loose
+win,5,158,5,Oval Invincibles,Welsh Fire,male,2022,8,7,no,"Sophia Gardens, Cardiff",Cardiff,Welsh Fire,Oval Invincibles,no,0.5,142.625,6.25,loose
+win,6,160,6,London Spirit,Manchester Originals,male,2022,8,8,yes,"Lord's, London",London,London Spirit,London Spirit,yes,0.25,148.625,5.375,win
+loose,7,152,8,Northern Superchargers,Trent Rockets,male,2022,8,9,yes,"Headingley, Leeds",Leeds,Trent Rockets,Trent Rockets,no,0.5,152.375,5.75,win
+win,8,176,4,Birmingham Phoenix,Southern Brave,male,2022,8,10,yes,"Edgbaston, Birmingham",Birmingham,Southern Brave,Birmingham Phoenix,no,0.6,150.2,5.9,loose
+loose,1,143,5,Northern Superchargers,Oval Invincibles,female,2022,8,11,no,"Kennington Oval, London",London,Oval Invincibles,Oval Invincibles,no,0.4285714285714285,123.28571428571428,5.714285714285714,loose
+loose,9,157,7,Northern Superchargers,Oval Invincibles,male,2022,8,11,no,"Kennington Oval, London",London,Oval Invincibles,Oval Invincibles,no,0.4444444444444444,152.33333333333334,6.0,loose
+loose,2,155,4,London Spirit,Southern Brave,female,2022,8,12,no,"The Rose Bowl, Southampton",Southampton,London Spirit,Southern Brave,yes,0.5,119.375,6.875,win
+win,10,147,6,London Spirit,Southern Brave,male,2022,8,12,no,"The Rose Bowl, Southampton",Southampton,London Spirit,London Spirit,yes,0.3333333333333333,149.88888888888889,5.444444444444445,win
+win,3,119,5,Trent Rockets,Manchester Originals,female,2022,8,13,no,"Old Trafford, Manchester",Manchester,Manchester Originals,Trent Rockets,no,0.4285714285714285,132.42857142857142,6.285714285714286,loose
+win,4,161,5,Birmingham Phoenix,Welsh Fire,female,2022,8,13,no,"Sophia Gardens, Cardiff",Cardiff,Welsh Fire,Birmingham Phoenix,no,0.4444444444444444,129.77777777777777,6.666666666666667,loose
+loose,11,189,3,Manchester Originals,Trent Rockets,male,2022,8,13,yes,"Old Trafford, Manchester",Manchester,Trent Rockets,Trent Rockets,no,0.25,147.5,6.625,loose
+win,12,130,7,Birmingham Phoenix,Welsh Fire,male,2022,8,13,no,"Sophia Gardens, Cardiff",Cardiff,Welsh Fire,Birmingham Phoenix,no,0.6363636363636364,152.54545454545453,5.727272727272728,win
+win,5,127,4,Northern Superchargers,London Spirit,female,2022,8,14,yes,"Headingley, Leeds",Leeds,London Spirit,Northern Superchargers,no,0.375,125.75,5.625,loose
+win,6,153,8,Southern Brave,Oval Invincibles,female,2022,8,14,no,"Kennington Oval, London",London,Oval Invincibles,Southern Brave,no,0.8,123.2,5.2,win
+loose,13,143,5,Northern Superchargers,London Spirit,male,2022,8,14,yes,"Headingley, Leeds",Leeds,Northern Superchargers,London Spirit,yes,0.4,152.8,6.1,loose
+loose,14,137,6,Southern Brave,Oval Invincibles,male,2022,8,14,no,"Kennington Oval, London",London,Oval Invincibles,Oval Invincibles,no,0.6666666666666666,140.58333333333334,5.916666666666667,loose
+loose,7,116,9,Trent Rockets,Birmingham Phoenix,female,2022,8,15,no,"Edgbaston, Birmingham",Birmingham,Birmingham Phoenix,Birmingham Phoenix,no,0.5,130.75,6.125,win
+loose,15,145,6,Trent Rockets,Birmingham Phoenix,male,2022,8,15,no,"Edgbaston, Birmingham",Birmingham,Birmingham Phoenix,Birmingham Phoenix,no,0.6666666666666666,139.16666666666666,7.0,win
+win,8,156,2,Manchester Originals,Welsh Fire,female,2022,8,16,yes,"Old Trafford, Manchester",Manchester,Welsh Fire,Manchester Originals,no,0.375,123.125,6.125,loose
+win,16,149,9,Manchester Originals,Welsh Fire,male,2022,8,16,yes,"Old Trafford, Manchester",Manchester,Welsh Fire,Manchester Originals,no,0.2222222222222222,152.11111111111111,6.222222222222222,loose
+loose,9,112,8,Trent Rockets,Oval Invincibles,female,2022,8,17,yes,"Trent Bridge, Nottingham",Nottingham,Oval Invincibles,Oval Invincibles,no,0.4444444444444444,129.11111111111111,6.444444444444445,loose
+win,17,181,4,Trent Rockets,Oval Invincibles,male,2022,8,17,yes,"Trent Bridge, Nottingham",Nottingham,Oval Invincibles,Trent Rockets,no,0.6153846153846154,139.6153846153846,6.923076923076923,loose
+win,10,136,5,Southern Brave,Manchester Originals,female,2022,8,18,yes,"The Rose Bowl, Southampton",Southampton,Manchester Originals,Southern Brave,no,0.8181818181818182,125.9090909090909,5.454545454545454,win
+win,18,188,3,Manchester Originals,Southern Brave,male,2022,8,18,no,"The Rose Bowl, Southampton",Southampton,Southern Brave,Manchester Originals,no,0.3,151.8,6.5,win
+win,11,153,4,Birmingham Phoenix,Northern Superchargers,female,2022,8,19,yes,"Edgbaston, Birmingham",Birmingham,Northern Superchargers,Birmingham Phoenix,no,0.5454545454545454,131.36363636363637,6.727272727272728,win
+win,19,169,6,Northern Superchargers,Birmingham Phoenix,male,2022,8,19,no,"Edgbaston, Birmingham",Birmingham,Birmingham Phoenix,Northern Superchargers,no,0.3636363636363636,151.9090909090909,6.0,loose
+win,12,142,4,Trent Rockets,London Spirit,female,2022,8,20,yes,"Trent Bridge, Nottingham",Nottingham,London Spirit,Trent Rockets,no,0.4,127.4,6.6,loose
+loose,20,122,10,London Spirit,Trent Rockets,male,2022,8,20,no,"Trent Bridge, Nottingham",Nottingham,Trent Rockets,Trent Rockets,no,0.4545454545454545,149.0,5.454545454545454,win
+loose,13,160,3,Manchester Originals,Northern Superchargers,female,2022,8,21,no,"Headingley, Leeds",Leeds,Manchester Originals,Northern Superchargers,yes,0.4,127.7,5.6,loose
+win,21,208,5,Manchester Originals,Northern Superchargers,male,2022,8,21,no,"Headingley, Leeds",Leeds,Northern Superchargers,Manchester Originals,no,0.3636363636363636,155.0909090909091,6.181818181818182,win
+win,14,122,8,Southern Brave,Welsh Fire,female,2022,8,22,no,"Sophia Gardens, Cardiff",Cardiff,Welsh Fire,Southern Brave,no,0.8333333333333334,126.75,5.416666666666667,win
+loose,22,129,8,Welsh Fire,Southern Brave,male,2022,8,22,yes,"Sophia Gardens, Cardiff",Cardiff,Southern Brave,Southern Brave,no,0.25,148.58333333333334,6.0,loose
+loose,15,106,7,Birmingham Phoenix,Oval Invincibles,female,2022,8,23,no,"Kennington Oval, London",London,Oval Invincibles,Oval Invincibles,no,0.5833333333333334,133.16666666666666,6.5,win
+win,23,166,6,Birmingham Phoenix,Oval Invincibles,male,2022,8,23,no,"Kennington Oval, London",London,Oval Invincibles,Birmingham Phoenix,no,0.6428571428571429,151.57142857142858,5.857142857142857,loose
+loose,16,119,9,Welsh Fire,London Spirit,female,2022,8,24,no,"Lord's, London",London,Welsh Fire,London Spirit,yes,0.1818181818181818,127.36363636363636,6.636363636363637,loose
+win,24,156,6,London Spirit,Welsh Fire,male,2022,8,24,yes,"Lord's, London",London,Welsh Fire,London Spirit,no,0.4166666666666667,146.75,5.833333333333333,loose
+loose,17,88,8,Trent Rockets,Southern Brave,female,2022,8,25,no,"The Rose Bowl, Southampton",Southampton,Southern Brave,Southern Brave,no,0.4545454545454545,128.72727272727272,6.363636363636363,win
+loose,25,138,6,Trent Rockets,Southern Brave,male,2022,8,25,no,"The Rose Bowl, Southampton",Southampton,Southern Brave,Southern Brave,no,0.6666666666666666,141.2,6.933333333333334,win
+win,18,123,6,Welsh Fire,Northern Superchargers,female,2022,8,26,yes,"Sophia Gardens, Cardiff",Cardiff,Welsh Fire,Welsh Fire,yes,0.1666666666666666,126.66666666666669,6.833333333333333,loose
+loose,26,114,4,Welsh Fire,Northern Superchargers,male,2022,8,26,yes,"Sophia Gardens, Cardiff",Cardiff,Welsh Fire,Northern Superchargers,yes,0.2142857142857142,147.71428571428572,6.142857142857143,loose
+loose,19,80,10,London Spirit,Oval Invincibles,female,2022,8,27,yes,"Lord's, London",London,Oval Invincibles,Oval Invincibles,no,0.4166666666666667,124.83333333333331,6.333333333333333,win
+loose,27,122,7,London Spirit,Oval Invincibles,male,2022,8,27,yes,"Lord's, London",London,London Spirit,Oval Invincibles,yes,0.4615384615384615,147.46153846153845,5.846153846153846,win
+win,20,122,6,Manchester Originals,Birmingham Phoenix,female,2022,8,28,no,"Edgbaston, Birmingham",Birmingham,Birmingham Phoenix,Manchester Originals,no,0.3636363636363636,130.63636363636363,5.363636363636363,loose
+win,28,154,6,Manchester Originals,Birmingham Phoenix,male,2022,8,28,no,"Edgbaston, Birmingham",Birmingham,Manchester Originals,Manchester Originals,yes,0.4166666666666667,159.5,6.083333333333333,win
+loose,21,100,8,Welsh Fire,Trent Rockets,female,2022,8,29,no,"Trent Bridge, Nottingham",Nottingham,Welsh Fire,Trent Rockets,yes,0.2307692307692307,126.3846153846154,6.769230769230769,win
+win,29,172,4,Trent Rockets,Welsh Fire,male,2022,8,29,yes,"Trent Bridge, Nottingham",Nottingham,Welsh Fire,Trent Rockets,no,0.625,141.0,6.875,loose
+loose,22,82,10,Birmingham Phoenix,London Spirit,female,2022,8,30,no,"Lord's, London",London,London Spirit,London Spirit,no,0.5,130.42857142857142,6.5,loose
+loose,30,139,6,London Spirit,Birmingham Phoenix,male,2022,8,30,yes,"Lord's, London",London,Birmingham Phoenix,Birmingham Phoenix,no,0.4285714285714285,145.64285714285714,5.928571428571429,loose
+win,23,145,6,Northern Superchargers,Southern Brave,female,2022,8,31,yes,"Headingley, Leeds",Leeds,Southern Brave,Northern Superchargers,no,0.4166666666666667,130.75,5.166666666666667,loose
+win,24,163,2,Oval Invincibles,Manchester Originals,female,2022,8,31,no,"Old Trafford, Manchester",Manchester,Oval Invincibles,Oval Invincibles,yes,0.7142857142857143,118.85714285714286,7.071428571428571,win
+win,31,135,8,Northern Superchargers,Southern Brave,male,2022,8,31,yes,"Headingley, Leeds",Leeds,Southern Brave,Northern Superchargers,no,0.4285714285714285,154.42857142857142,5.785714285714286,win
+loose,32,143,9,Oval Invincibles,Manchester Originals,male,2022,8,31,no,"Old Trafford, Manchester",Manchester,Oval Invincibles,Manchester Originals,yes,0.5714285714285714,147.28571428571428,6.071428571428571,win
+loose,40,150,7,London Spirit,Manchester Originals,male,2022,9,2,no,"The Rose Bowl, Southampton",Southampton,London Spirit,Manchester Originals,yes,0.4,145.2,5.933333333333334,loose
+win,40,134,6,Southern Brave,Trent Rockets,female,2022,9,2,yes,"The Rose Bowl, Southampton",Southampton,Trent Rockets,Southern Brave,no,0.8,125.06666666666666,5.8,loose
+loose,50,120,9,Manchester Originals,Trent Rockets,male,2022,9,3,no,"Lord's, London",London,Manchester Originals,Trent Rockets,yes,0.5333333333333333,157.4,6.333333333333333,win
+loose,50,101,7,Southern Brave,Oval Invincibles,female,2022,9,3,no,"Lord's, London",London,Southern Brave,Oval Invincibles,yes,0.8125,125.625,5.8125,win
