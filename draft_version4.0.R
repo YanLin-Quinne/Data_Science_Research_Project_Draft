@@ -30,9 +30,6 @@ library(RColorBrewer)
 df_bat <- read.csv("~/Desktop/final_dataframe.csv")
 df_bat
 
-df <- read.csv("~/Desktop/full_dataframe.csv")
-df
-
 #overview of data
 skim(df_bat)
 names(df_bat)
