@@ -1,5 +1,5 @@
-# Data Science Research Project Draft
+# Data Science Research Project
 
-I am currently continuing my thesis project, the four week of progress, so the code is not yet complete.
+The repository contains all the code and supporting material produced as a thesis for the MSc Data Science (Durham University, 2022-2023).
 
-I have put the draft here for the guidance of my supervisor and other colleagues and to provide comments.
+The thesis topic was to predict the outcome of THE HUNDRED cricket matches, and various machine learning techniques were tried to produce two specialised models (half-time model and full-time model).
